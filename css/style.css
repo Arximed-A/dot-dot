@@ -307,6 +307,10 @@ textarea.input {
   padding: 13px 14px;
 }
 
+textarea.input::placeholder {
+   color: rgba(196, 196, 196, 1);
+}
+
 .checkbox {
   position: relative;
 }
