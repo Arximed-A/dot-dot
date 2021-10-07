@@ -268,6 +268,7 @@ textarea:focus {
 }
 
 .input__from {
+  padding: 0px 135px 0px 36px;
   background: -webkit-gradient(linear, left top, right top, from(#c4c4c4), to(rgba(196, 196, 196, 0)));
   background: -o-linear-gradient(left, #c4c4c4, rgba(196, 196, 196, 0));
   background: linear-gradient(to right, #c4c4c4, rgba(196, 196, 196, 0));
@@ -302,6 +303,8 @@ textarea:focus {
 textarea.input {
   resize: none;
   padding: 0px 0px;
+  height: 80px;
+  padding: 13px 14px;
 }
 
 .checkbox {
@@ -1084,14 +1087,6 @@ body.ie ._ibg img {
 
 .route-delivery-car__line:last-child {
   margin: 0px 0px 0px 0px;
-}
-
-.input__text {
-  height: 80px;
-}
-
-.input__from {
-  padding: 0px 135px 0px 36px;
 }
 
 .transport-delivery-car__title::before {
