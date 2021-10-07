@@ -1062,15 +1062,19 @@ body.ie ._ibg img {
 }
 
 .delivery-car__transport {
-  margin: 0px 0px 40px 0px;
+  margin: 0px 0px 42px 0px;
 }
 
 .delivery-car__freight {
-  margin: 0px 0px 40px 0px;
+  margin: 0px 0px 42px 0px;
 }
 
 .delivery-car__time {
-  margin: 0px 0px 16px 0px;
+  margin: 0px 0px 20px 0px;
+}
+
+.delivery-car__comment {
+  margin: 0px 0px 10px 0px;
 }
 
 .delivery-car__text {
@@ -1119,7 +1123,7 @@ body.ie ._ibg img {
 }
 
 .freight-delivery-car__temperature {
-  margin: 14px 0px 0px 0px;
+  margin: 16px 0px 0px 0px;
 }
 
 .temperature__header {
